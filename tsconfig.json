@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "scheme": "your-app-scheme",
+  "web": {
+    "bundler": "metro"
+  },
+  "compilerOptions": {
+    "strict": true
+  }
+}
